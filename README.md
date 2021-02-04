@@ -11,7 +11,7 @@ Read about Generative Adversarial Networks: https://arxiv.org/abs/1406.2661
 pip install -r requirements.txt
 ```
 ## Results
-![progress over 100 epochs](../results/gan.gif)
+![progress over 100 epochs](/results/gan.gif)
 
 ## Reference
 [Learning Multiple Layers of Features from Tiny Images](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf), Alex Krizhevsky, 2009.
