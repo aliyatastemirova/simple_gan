@@ -1,5 +1,5 @@
 # simple_gan
-This is a simple GAN for generating images like images in the CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html
+This is a simple GAN for generating images like the images in the CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html
 
 Read about Generative Adversarial Networks: https://arxiv.org/abs/1406.2661
 
@@ -10,6 +10,10 @@ Read about Generative Adversarial Networks: https://arxiv.org/abs/1406.2661
 ```
 pip install -r requirements.txt
 ```
+
+## Running
+Run ```gan.ipynb``` file in models folder
+
 ## Results
 ![progress over 100 epochs](/results/gan.gif)
 
